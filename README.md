@@ -1,7 +1,7 @@
 # Привет, меня зовут Маша!
 
 ---
-![Header](https://github.com/zhuravskayamasha/zhuravskayamasha/blob/main/assets/Untitled%20(2).png)
+![Header](https://github.com/zhuravskayamasha/zhuravskayamasha/blob/main/assets/Untitled%20(3).png)
 
 
 ### Обо мне:
