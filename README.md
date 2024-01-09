@@ -1,4 +1,4 @@
-![Header](https://github.com/zhuravskayamasha/zhuravskayamasha/blob/main/assets/Untitled.png)
+[![Header](https://github.com/zhuravskayamasha/zhuravskayamasha/blob/main/assets/Untitled.png)]
 
 About me
 
